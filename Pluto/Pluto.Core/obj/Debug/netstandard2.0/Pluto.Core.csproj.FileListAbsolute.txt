@@ -1,0 +1,8 @@
+C:\Users\irene.musso\source\repos\Pluto\Pluto.Core\bin\Debug\netstandard2.0\Pluto.Core.deps.json
+C:\Users\irene.musso\source\repos\Pluto\Pluto.Core\bin\Debug\netstandard2.0\Pluto.Core.dll
+C:\Users\irene.musso\source\repos\Pluto\Pluto.Core\bin\Debug\netstandard2.0\Pluto.Core.pdb
+C:\Users\irene.musso\source\repos\Pluto\Pluto.Core\obj\Debug\netstandard2.0\Pluto.Core.csprojAssemblyReference.cache
+C:\Users\irene.musso\source\repos\Pluto\Pluto.Core\obj\Debug\netstandard2.0\Pluto.Core.AssemblyInfoInputs.cache
+C:\Users\irene.musso\source\repos\Pluto\Pluto.Core\obj\Debug\netstandard2.0\Pluto.Core.AssemblyInfo.cs
+C:\Users\irene.musso\source\repos\Pluto\Pluto.Core\obj\Debug\netstandard2.0\Pluto.Core.dll
+C:\Users\irene.musso\source\repos\Pluto\Pluto.Core\obj\Debug\netstandard2.0\Pluto.Core.pdb
